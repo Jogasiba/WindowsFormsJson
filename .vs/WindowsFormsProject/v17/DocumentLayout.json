@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|c:\\users\\ccoad\\onedrive\\desktop\\windowsformsproject\\windowsformsproject\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|solutionrelative:windowsformsproject\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\windowsformsproject\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|solutionrelative:windowsformsproject\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\windowsformsproject\\forms\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|solutionrelative:windowsformsproject\\forms\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\windowsformsproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|solutionrelative:windowsformsproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\windowsformsproject\\forms\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|solutionrelative:windowsformsproject\\forms\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\windowsformsproject\\data\\cadastros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|solutionrelative:windowsformsproject\\data\\cadastros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\windowsformsproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|solutionrelative:windowsformsproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\windowsformsproject\\data\\contassalvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|solutionrelative:windowsformsproject\\data\\contassalvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\windowsformsproject\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE64E24-5AB4-46B9-A73D-0E2C046DD300}|WindowsFormsProject\\WindowsFormsProject.csproj|solutionrelative:windowsformsproject\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsProject\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsProject\\Forms\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAACnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:43:23.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsProject\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\ccoad\\OneDrive\\Desktop\\Itens \u00C1rea de Trabalho\\Projetos de Programa\u00E7\u00E3o\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Itens \u00C1rea de Trabalho\\Projetos de Programa\u00E7\u00E3o\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:43:11.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Conta.cs",
+              "RelativeDocumentMoniker": "WindowsFormsProject\\Forms\\Conta.cs",
+              "ToolTip": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Conta.cs",
+              "RelativeToolTip": "WindowsFormsProject\\Forms\\Conta.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswHIAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:35:26.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conta.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Conta.cs",
+              "RelativeDocumentMoniker": "WindowsFormsProject\\Forms\\Conta.cs",
+              "ToolTip": "C:\\Users\\ccoad\\OneDrive\\Desktop\\Itens \u00C1rea de Trabalho\\Projetos de Programa\u00E7\u00E3o\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Conta.cs [Design]",
+              "RelativeToolTip": "..\\Itens \u00C1rea de Trabalho\\Projetos de Programa\u00E7\u00E3o\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Conta.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T20:33:10.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsProject\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Login.cs",
+              "RelativeToolTip": "WindowsFormsProject\\Forms\\Login.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACIAAACiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T19:39:42.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContasSalvas.cs",
+              "DocumentMoniker": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Data\\ContasSalvas.cs",
+              "RelativeDocumentMoniker": "WindowsFormsProject\\Data\\ContasSalvas.cs",
+              "ToolTip": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Data\\ContasSalvas.cs",
+              "RelativeToolTip": "WindowsFormsProject\\Data\\ContasSalvas.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:25:01.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cadastros.cs",
+              "DocumentMoniker": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Data\\Cadastros.cs",
+              "RelativeDocumentMoniker": "WindowsFormsProject\\Data\\Cadastros.cs",
+              "ToolTip": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Data\\Cadastros.cs",
+              "RelativeToolTip": "WindowsFormsProject\\Data\\Cadastros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:24:45.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Classes\\Usuario.cs",
+              "RelativeDocumentMoniker": "WindowsFormsProject\\Classes\\Usuario.cs",
+              "ToolTip": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Classes\\Usuario.cs",
+              "RelativeToolTip": "WindowsFormsProject\\Classes\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:23:59.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ccoad\\OneDrive\\Desktop\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsProject\\Forms\\Login.cs",
+              "ToolTip": "C:\\Users\\ccoad\\OneDrive\\Desktop\\Itens \u00C1rea de Trabalho\\Projetos de Programa\u00E7\u00E3o\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Login.cs [Design]",
+              "RelativeToolTip": "..\\Itens \u00C1rea de Trabalho\\Projetos de Programa\u00E7\u00E3o\\WindowsFormsProject\\WindowsFormsProject\\Forms\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:22:14.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
